@@ -97,12 +97,8 @@ I am also a huge anime fan 😉
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RougherO&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-<br>
-<br>
-<br>
-<br>
 
-![Snake animation](https://github.com/RougherO/RougherO/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/RougherO/RougherO/output/github-contribution-grid-snake-dark.svg)
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 
 <!---
