@@ -49,7 +49,7 @@
 <br>
 
 </td>
-<td width=460px>
+<td width="440">
   
   ![RougherO Github Stats](https://github-readme-stats.vercel.app/api?username=RougherO&theme=transparent&show_icons=true&rank_icon=github)
 
