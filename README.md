@@ -42,7 +42,7 @@
 * 🔭 I’m currently working on - becoming a Quant Dev.
 * 🌱 I’m currently learning - compilers | operating systems | machine learning
 * 💬 Ask me about - C++ | life
-* 📫 How to reach me: [chiragchowdhury51@gmail.com](mailto:chiragchowdhury51@gmail.com?subject=[Github]Want%20to%20Connect)
+* 📫 How to reach me: [chiragchowdhury81@gmail.com](mailto:chiragchowdhury81@gmail.com?subject=[Github]Want%20to%20Connect)
 * ❤️ I love exploring
 <!-- * 🤝 I’m looking to collaborate on - -->
 <!-- * 🤔 I’m looking for help with - -->
