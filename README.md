@@ -38,9 +38,8 @@
 <td>
   
   ### Hi there 👋
-* 👂 My name is - Chirag Chowdhury. *RougherO* is my digital name.
-* 🔭 I’m currently working on - becoming a Quant Dev.
-* 🌱 I’m currently learning - compilers | operating systems | machine learning
+* 🔭 I’m currently working on - becoming a Compiler Dev.
+* 🌱 I’m currently learning - compilers | LLVM
 * 💬 Ask me about - C++ | life
 * 📫 How to reach me: [chiragchowdhury81@gmail.com](mailto:chiragchowdhury81@gmail.com?subject=[Github]Want%20to%20Connect)
 * ❤️ I love exploring
@@ -60,17 +59,16 @@
 
 <div align="center">
   
-👋 Hi, my name is Chirag Chowdhury
+Hi, my name is Chirag Chowdhury
 
 </div>
 
-👨‍🎓 I'm a 3rd year student pursuing B.E. in Information Technology from Jadavpur University, Calcutta. 
-I'm an avid *C++ nerd*, exploring the ins and outs of the language is one of my favorite pastimes.
-I also like compilers and operating systems.
+I'm a 4th year student pursuing B.E. in Information Technology from Jadavpur University, Calcutta. 
+I like system programming, compilers, operating systems and anime.
 
 <div align="center">
 
-I am also a huge anime fan 😉
+\- Typical Otaku
 
 </div>
 </td>
